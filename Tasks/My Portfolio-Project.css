@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#border-head {
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    border-radius: 10px;
+    padding-right: 4px;
+    padding-left: 4px;
+}
+
+.first-heading {
+    color: #183b56;
+    font-size: 22px;
+}
+
+.pic {
+    border-radius: 15px;
+}
+
+.para {
+    color: #5a7184;
+    text-align: center;
+}
+
+.para-1 {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 550;
+}
+
+.container-color1 {
+    background-color: white;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.narayana-pic {
+    width: 270px;
+}
+
+.all-pages {
+    background-color: #f9fbfe;
+}
+
+.education-card {
+    background-color: white;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+}
+
+.project-card-1 {
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e5eaf4;
+    border-radius: 5px;
+}
+
+.projects-page {
+    border-radius: 10px;
+}
+
+.projects-names {
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.span-color {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.all-hobbies {
+    color: #5a7184;
+}
+
+.social-media {
+    color: #1f2933;
+    font-size: 12px;
+    width: 20%;
+}
